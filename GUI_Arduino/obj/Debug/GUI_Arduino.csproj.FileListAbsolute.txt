@@ -1,0 +1,15 @@
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\bin\Debug\GUI_Arduino.exe.config
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\bin\Debug\GUI_Arduino.exe
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\bin\Debug\GUI_Arduino.pdb
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.csproj.AssemblyReference.cache
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.form_Principal.resources
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.Properties.Resources.resources
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.csproj.GenerateResource.cache
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.exe
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.pdb
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.ControlRemoto.resources
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.Sensores.resources
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.Actuadores.resources
+C:\Users\crisn\OneDrive\Escritorio\GUI_Arduino\GUI_Arduino\obj\Debug\GUI_Arduino.Automatico.resources
